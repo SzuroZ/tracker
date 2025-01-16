@@ -68,5 +68,3 @@ TRACKED_ACCOUNTS = [
     "ZSzurovecz"
 ]
 
-# Discord token és egyéb konfigurációk
-DISCORD_TOKEN = "MTMyOTA5MjIyNzQ2NDQzMzcyNw.GK2kYw.jwEByPw2BmSBq5V-_LR3HbIu1QXiy09IVxx1Fc"
