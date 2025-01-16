@@ -64,9 +64,9 @@ USER_AGENTS = [
 # Figyelt Twitter fiókok
 TRACKED_ACCOUNTS = [
     "elonmusk",
-    "jack",
-    "billgates"
+    "JuggCooks",
+    "ZSzurovecz"
 ]
 
 # Discord token és egyéb konfigurációk
-DISCORD_TOKEN = "YOUR_DISCORD_BOT_TOKEN"
+DISCORD_TOKEN = "MTMyOTA5MjIyNzQ2NDQzMzcyNw.GK2kYw.jwEByPw2BmSBq5V-_LR3HbIu1QXiy09IVxx1Fc"
